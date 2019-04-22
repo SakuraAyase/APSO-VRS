@@ -1,0 +1,39 @@
+﻿  APSO.cpp
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(12): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(29): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(70): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(99): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(112): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(198): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(203): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(205): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(228): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(230): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(242): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(245): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(252): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(263): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(280): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(282): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(297): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\vrc.h(299): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(358): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(548): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(807): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(819): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(832): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(838): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(844): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(850): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(856): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(862): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(223): warning C4715: “PSO::f2”: 不是所有的控件路径都返回值
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(237): warning C4715: “PSO::f3”: 不是所有的控件路径都返回值
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(206): warning C4715: “PSO::f1”: 不是所有的控件路径都返回值
+e:\文件\程序\ec\apso_vrc\apso_vrc\apso.cpp(250): warning C4715: “PSO::f4”: 不是所有的控件路径都返回值
+  APSO_VRC.vcxproj -> E:\文件\程序\EC\APSO_VRC\Debug\APSO_VRC.exe
